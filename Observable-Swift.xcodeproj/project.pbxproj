@@ -373,11 +373,11 @@
 					};
 					6592C2FB1957532100BA8CB7 = {
 						CreatedOnToolsVersion = 6.0;
-						LastSwiftMigration = 0820;
+						LastSwiftMigration = 1010;
 					};
 					6592C3051957532100BA8CB7 = {
 						CreatedOnToolsVersion = 6.0;
-						LastSwiftMigration = 0820;
+						LastSwiftMigration = 1010;
 						TestTargetID = 6592C2FB1957532100BA8CB7;
 					};
 				};
@@ -721,7 +721,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.utdloc.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Observable;
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -737,7 +738,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.utdloc.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Observable;
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -754,7 +756,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.utdloc.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -771,7 +774,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.utdloc.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
